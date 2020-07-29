@@ -1,7 +1,7 @@
 # react-ssr-boilprate
 
 
- Making Server Side Rendering App easer than ever.all packages and configs you need all in one packag. I use below packages at this boilprate.
+ Making Server Side Rendering App easer than ever.all packages and configs you need all in one package. I use below packages at this boilprate.
  
  NextJs
  Material-Ui
